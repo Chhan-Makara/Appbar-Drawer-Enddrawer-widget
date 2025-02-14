@@ -1,16 +1,7 @@
-# appbar_widget_example_flutter
+Example of appbar widget, drawer widget and enddrawer widget.
+![1](https://github.com/user-attachments/assets/3d6f7d43-8741-45f4-9585-44a52cebd24f)
+![2](https://github.com/user-attachments/assets/b4044b99-4fdf-4107-b5b2-40b8a702011b)
+![3](https://github.com/user-attachments/assets/b9e35f5b-fb22-4984-b875-d746c817bb9b)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
